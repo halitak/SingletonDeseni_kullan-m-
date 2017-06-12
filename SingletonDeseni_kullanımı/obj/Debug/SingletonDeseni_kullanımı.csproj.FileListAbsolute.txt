@@ -1,0 +1,6 @@
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\SingletonDeseni_kullanımı\SingletonDeseni_kullanımı\bin\Debug\SingletonDeseni_kullanımı.exe.config
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\SingletonDeseni_kullanımı\SingletonDeseni_kullanımı\bin\Debug\SingletonDeseni_kullanımı.exe
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\SingletonDeseni_kullanımı\SingletonDeseni_kullanımı\bin\Debug\SingletonDeseni_kullanımı.pdb
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\SingletonDeseni_kullanımı\SingletonDeseni_kullanımı\obj\Debug\SingletonDeseni_kullanımı.csprojResolveAssemblyReference.cache
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\SingletonDeseni_kullanımı\SingletonDeseni_kullanımı\obj\Debug\SingletonDeseni_kullanımı.exe
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\SingletonDeseni_kullanımı\SingletonDeseni_kullanımı\obj\Debug\SingletonDeseni_kullanımı.pdb
